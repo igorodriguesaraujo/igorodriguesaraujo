@@ -8,3 +8,4 @@ identidade visual e website dinâmicos com Wordpress, durou pouco, mas á experi
 
 Logo depois continuei os estudos e aperfeçoando focando no desenvolvimento web e hoje continuo foca no ecosistema javascript no Front-End e Back-End.
 
+######HTML5 ######CSS3 ######JavaScript ######TypeScript ######ReactJS ######NextJS ######ReactQuery ######Zustand ######Redux ######NodeJS ######Figma ######AdobeXD ######Photoshop #######Illustator   
