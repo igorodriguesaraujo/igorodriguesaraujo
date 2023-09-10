@@ -10,4 +10,4 @@ Logo depois continuei os estudos e aperfeçoando focando no desenvolvimento web 
 
 Algumas das *tecnologias* que já trabalhei ou estudei. 
 
-``html5``  ``css3``   ``JavaScript``  ``TypeScript``  ``ReactJS``  ``NextJS``  ``ReactQuery``  ``Zustand``  ``Redux`` ``Axios``  ``NodeJS``  ``PHP``  ``Wordpress`` ``JWT``  ``Figma``  ``AdobeXD``  ``Photoshop``  ``Illustator``
+``html5``  ``css3`` ``Bootstrap`` ``Tailwindcss`` ``JavaScript``  ``TypeScript``  ``ReactJS`` ``NextJS``  ``ReactQuery``   ``Zustand``  ``Redux`` ``Axios``  ``NodeJS``  ``PHP``  ``Wordpress`` ``JWT``  ``Figma``  ``AdobeXD``  ``Photoshop``  ``Illustator``
